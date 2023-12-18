@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 section {
     margin: 100px auto;
     width: 600px;
@@ -25,6 +29,21 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     color:rgb(131, 131, 238);
 }
+<<<<<<< HEAD
 img {
     width: 80%;    
+=======
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    height: 50px;
+    background-color: rgb(67, 67, 146);    
+}
+.footer__p {
+    color: rgb(224, 208, 208);
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+>>>>>>> 02ffd8273f105f71d2ab813638c55e92230ec50c
 }
